@@ -1,0 +1,10 @@
+Z:\codes\backup\象棋環型散狀辨識(work)\work\work\bin\Debug\work.exe.config
+Z:\codes\backup\象棋環型散狀辨識(work)\work\work\bin\Debug\work.exe
+Z:\codes\backup\象棋環型散狀辨識(work)\work\work\bin\Debug\work.pdb
+Z:\codes\backup\象棋環型散狀辨識(work)\work\work\obj\Debug\Chinese chess recognition.csprojAssemblyReference.cache
+Z:\codes\backup\象棋環型散狀辨識(work)\work\work\obj\Debug\work.Form1.resources
+Z:\codes\backup\象棋環型散狀辨識(work)\work\work\obj\Debug\work.Properties.Resources.resources
+Z:\codes\backup\象棋環型散狀辨識(work)\work\work\obj\Debug\Chinese chess recognition.csproj.GenerateResource.cache
+Z:\codes\backup\象棋環型散狀辨識(work)\work\work\obj\Debug\Chinese chess recognition.csproj.CoreCompileInputs.cache
+Z:\codes\backup\象棋環型散狀辨識(work)\work\work\obj\Debug\work.exe
+Z:\codes\backup\象棋環型散狀辨識(work)\work\work\obj\Debug\work.pdb
